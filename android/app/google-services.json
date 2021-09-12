@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964949881280",
+    "project_id": "ecopoint-212e2",
+    "storage_bucket": "ecopoint-212e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964949881280:android:a4be4168bf96a138f45825",
+        "android_client_info": {
+          "package_name": "com.ecpoint.ecpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964949881280-fpbs1bhgaqtqi7iur6ln1t0c48p7rqf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeybL9XElxbEyiPShmipyJlF167h6ShAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964949881280-fpbs1bhgaqtqi7iur6ln1t0c48p7rqf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
