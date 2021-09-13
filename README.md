@@ -5,10 +5,13 @@ Proporcionando Negócios Sustentáveis
 
 Esse é um aplicativo desenvolvido para melhorar a qualidade dos serviços de reciclagem. 
 Foi desenvolvido no Android Studio, usando o software Flutter e a Linguagem de Programação Dart. 
-
+##
 https://developer.android.com/studio
+
 https://flutter.dev/
+
 https://dart.dev/
+##
 
 Empregamos alguns "packages" fundamentais para o projeto, como databases, por exemplo. Todos eles podem ser encontrados na pasta "pubspec.yaml", mas também abaixo:
   firebase_core: ^0.4.5
