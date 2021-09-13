@@ -1,7 +1,7 @@
 # ecopoint
 
 Proporcionando Negócios Sustentáveis
-## RESUMO
+## RESUMO E INFORMAÇÕES PARA AVALIAÇÃO
 
 Esse é um aplicativo desenvolvido para melhorar a qualidade dos serviços de reciclagem. 
 Foi desenvolvido no Android Studio, usando o software Flutter e a Linguagem de Programação Dart. 
