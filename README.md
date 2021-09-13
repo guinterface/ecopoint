@@ -10,7 +10,7 @@ https://developer.android.com/studio
 https://flutter.dev/
 https://dart.dev/
 
-Empregamos alguns "packages" fundamentais para o projeto, como databases, por exemplo. Todos eles podem ser encontrados em "pubspec.yaml", mas também abaixo:
+Empregamos alguns "packages" fundamentais para o projeto, como databases, por exemplo. Todos eles podem ser encontrados na pasta "pubspec.yaml", mas também abaixo:
   firebase_core: ^0.4.5
   firebase_auth: ^0.16.1
   cloud_firestore: ^0.13.7
